@@ -11,9 +11,9 @@
   },
   "uploadImage": {
     "dialogTitle": "Bild hochladen",
-    "uploadInstructions": "Laden Sie ein Bild von Ihrem Gerät hoch:",
-    "addViaUrlInstructions": "Oder fügen Sie ein Bild über eine URL hinzu:",
-    "autoCompletePlaceholder": "Wählen oder fügen Sie eine Bild-URL ein",
+    "uploadInstructions": "Lade ein Bild von deinem Gerät hoch:",
+    "addViaUrlInstructions": "Oder füge ein ein Bild über eine URL hinzu:",
+    "autoCompletePlaceholder": "Wähle oder füge eine Bild-URL ein",
     "alt": "Alternativtext:",
     "title": "Titel:"
   },
@@ -23,7 +23,7 @@
   },
   "createLink": {
     "url": "URL",
-    "urlPlaceholder": "Wählen oder fügen Sie eine URL ein",
+    "urlPlaceholder": "Wähle oder füge eine URL ein",
     "title": "Titel",
     "saveTooltip": "URL festlegen",
     "cancelTooltip": "Änderung abbrechen"
